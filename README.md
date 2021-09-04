@@ -2,10 +2,10 @@
 
 ## AlexHunton2's First Homework!
 CS193 is...
--fun
--relaxed
--informative
--interesting
+- fun
+- relaxed
+- informative
+- interesting
 
 
 ## What is this assignment
