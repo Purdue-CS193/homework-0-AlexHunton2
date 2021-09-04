@@ -1,5 +1,13 @@
 # CS 193 Homework 0 - GitHub and Your Own Website! !!
 
+## AlexHunton2's First Homework!
+CS193 is...
+-fun
+-relaxed
+-informative
+-interesting
+
+
 ## What is this assignment
 
 Throughout this homework you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homeworks. For this first one, we're focusing on getting you used to the process.
